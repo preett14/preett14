@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Preet Gupta!
 
-<!--
-**preett14/preett14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech student at Invertis University (3rd Year)  
+💻 Passionate about Web Development and DSA  
+🌱 Currently learning HTML, CSS, JavaScript & Java  
+🚀 Building projects and exploring tech every day  
+📚 CGPA: 8.75 | 12th: 82%  
+📍 From Sitarganj, Uttarakhand
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Goals:
+- Contribute to Open Source projects
+- Crack internships at top tech companies
+- Build real-world projects and a strong portfolio
+
+---
+
+### 📫 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/preet-gupta-82985928b/) | [Email](mailto:preetgupta781@gmail.com)
+
+---
+
+> “Code, Learn, Build, Repeat!” 💪
